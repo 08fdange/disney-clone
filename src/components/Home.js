@@ -3,7 +3,7 @@ import styled from "styled-components";
 import ImgSlider from "./ImgSlider";
 import NewDisney from "./NewDisney";
 import Originals from "./Originals";
-import Recommends from "./Recommends";
+import Recommends from "./Recommends.js";
 import Trending from "./Trending";
 import Viewers from "./Viewers";
 import { useDispatch, useSelector } from "react-redux";
